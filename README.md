@@ -1,1 +1,1 @@
-# AI_Chat_Vtuber
+# AI Chat Vtuber
